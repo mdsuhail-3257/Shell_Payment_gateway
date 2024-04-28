@@ -1,0 +1,33 @@
+Welcome to the Payment System
+2024-04-28 04:43:59 - Payment System started
+Are you a registered user? (yes/no): Invalid input. Please enter 'yes' or 'no'.
+Are you a registered user? (yes/no): Enter username: Welcome to the Payment System
+2024-04-28 04:45:50 - Payment System started
+Are you a registered user? (yes/no): Welcome to the Payment System
+2024-04-28 04:47:37 - Payment System started
+Are you a registered user? (yes/no): Enter username: Enter password: Enter email: psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+User registration successful!
+Enter username: Welcome to the Payment System
+2024-04-28 09:28:50 - Payment System started
+Are you a registered user? (yes/no): Enter username: Enter password: Enter email: psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+User registration successful!
+Enter username: Welcome to the Payment System
+2024-04-28 09:46:31 - Payment System started
+Are you a registered user? (yes/no): Enter username: Enter password: Enter email: psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+psql: error: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+User registration successful!
+Enter username: 
